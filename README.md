@@ -24,8 +24,6 @@
   - 授课风格：很好的老师，会尽力帮助大家做实验
 
 ## Tips
-> by [@Longlin li](https://github.com/longlin10086), 2023.12
-
 同大物实验一样，大部分电路实验报告也是非常耗时的，只不过大物你可以通过选课避免掉一些难做的实验，而本实验不行。
 
 本实验的难点主要有：**实验操作**、**计算与绘图** 两点。
@@ -34,7 +32,10 @@
 
 这里提供我个人整理好的电路实验IB 仓库以供参考：[Longlin 的电路实验IB仓库](https://github.com/longlin10086/HITSZ-CircLab)
 
+> 文 / [Longlin li](https://github.com/longlin10086), 2023.12
+
 ## 课程建议
-> by [@Longlin li](https://github.com/longlin10086), 2023.12
 
 尽管每学期的助教不一样，但总体来说助教检查会比老师更好说话。当实验报告某处出现错误时，老师往往会让你重做一遍，而助教则可能会告诉你正确结果范围，让你课后再修改。
+
+> 文 / [Longlin li](https://github.com/longlin10086), 2023.12
