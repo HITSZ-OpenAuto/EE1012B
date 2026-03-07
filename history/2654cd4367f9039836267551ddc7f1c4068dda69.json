@@ -1,0 +1,97 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763814023,
+    "hash": "ab74d6e4fad5fc0f335dbc1049d442daf5320a31"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1713086033,
+    "hash": "e758dae906050fadc152eba9cb602a57d8e310f3"
+  },
+  "README.md": {
+    "size": 2085,
+    "time": 1772872089,
+    "hash": "2654cd4367f9039836267551ddc7f1c4068dda69"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1739002390,
+    "hash": "7d43d3ce554f0ca5a84b3b7e9bfc7a8d96b2ab18"
+  },
+  "assignments/2023秋-实验报告-psp/22-psp-实验一.pdf": {
+    "size": 2116337,
+    "time": 1739002390,
+    "hash": "7d43d3ce554f0ca5a84b3b7e9bfc7a8d96b2ab18"
+  },
+  "assignments/2023秋-实验报告-psp/22-psp-实验三.pdf": {
+    "size": 2010479,
+    "time": 1739002390,
+    "hash": "7d43d3ce554f0ca5a84b3b7e9bfc7a8d96b2ab18"
+  },
+  "assignments/2023秋-实验报告-psp/22-psp-实验二.pdf": {
+    "size": 2061151,
+    "time": 1739002390,
+    "hash": "7d43d3ce554f0ca5a84b3b7e9bfc7a8d96b2ab18"
+  },
+  "assignments/2023秋-实验报告-psp/22-psp-实验五.pdf": {
+    "size": 2408014,
+    "time": 1739002390,
+    "hash": "7d43d3ce554f0ca5a84b3b7e9bfc7a8d96b2ab18"
+  },
+  "assignments/2023秋-实验报告-psp/22-psp-实验六.pdf": {
+    "size": 2019010,
+    "time": 1739002390,
+    "hash": "7d43d3ce554f0ca5a84b3b7e9bfc7a8d96b2ab18"
+  },
+  "assignments/2023秋-实验报告-psp/22-psp-实验四.pdf": {
+    "size": 3536277,
+    "time": 1739002390,
+    "hash": "7d43d3ce554f0ca5a84b3b7e9bfc7a8d96b2ab18"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1739002390,
+    "hash": "7d43d3ce554f0ca5a84b3b7e9bfc7a8d96b2ab18"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1739002390,
+    "hash": "7d43d3ce554f0ca5a84b3b7e9bfc7a8d96b2ab18"
+  },
+  "materials/.gitkeep": {
+    "size": 0,
+    "time": 1739002390,
+    "hash": "7d43d3ce554f0ca5a84b3b7e9bfc7a8d96b2ab18"
+  },
+  "materials/2023秋电路实验IB实验原始记录页.docx": {
+    "size": 211914,
+    "time": 1739002390,
+    "hash": "7d43d3ce554f0ca5a84b3b7e9bfc7a8d96b2ab18"
+  },
+  "materials/电路实验IB实验指导书-V1.6.pdf": {
+    "size": 2979954,
+    "time": 1722225140,
+    "hash": "74936a2113fe09ce024d4dc208d375de2e9c2b29"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1739002390,
+    "hash": "7d43d3ce554f0ca5a84b3b7e9bfc7a8d96b2ab18"
+  },
+  "readme.toml": {
+    "size": 1768,
+    "time": 1770542218,
+    "hash": "c66d5a02fb60573390c965b253b1c335758f081f"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1739002390,
+    "hash": "7d43d3ce554f0ca5a84b3b7e9bfc7a8d96b2ab18"
+  },
+  "tag.txt": {
+    "size": 67,
+    "time": 1715519796,
+    "hash": "a576b3f6377432910a1b9b9022239a76445609db"
+  }
+}
