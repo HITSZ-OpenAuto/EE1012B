@@ -1,4 +1,6 @@
 # EE1012B - 电路实验IB
+<!-- TOML-META: repo_type="normal" -->
+<!-- TOML-BADGES: source="grades_summary" -->
 
 ![成绩构成](https://img.shields.io/badge/成绩构成-gold)
 ![出勤+实验报告100%](https://img.shields.io/badge/出勤+实验报告-100%25-wheat)
@@ -8,18 +10,28 @@
 ## 授课教师
 
 - 姜倩倩
+  <!-- TOML-ITEM: id="review-姜倩倩-1" -->
   - 很好的老师，会尽力帮助大家做实验
 
 ## 教材
+<!-- TOML-SECTION: title="教材" -->
+
+<!-- TOML-ITEM: id="item-教材-1" -->
 
 - **电路实验IB 实验指导书**（赵飞 / 王丹丹 / textbook）
 - **电路实验教程**（王灿 / 吴屏 / 哈尔滨工业大学出版社 / 2020.11（2023.1 重印） / textbook）
 
 ## 在线资源
+<!-- TOML-SECTION: title="在线资源" -->
+
+<!-- TOML-ITEM: id="item-在线资源-1" -->
 
 - [Longlin 的电路实验IB仓库](https://github.com/longlin10086/HITSZ-CircLab)：个人整理好的电路实验IB 仓库以供参考
 
 ## 关于实验
+<!-- TOML-SECTION: title="关于实验" -->
+
+<!-- TOML-ITEM: id="item-关于实验-1" -->
 
 同大物实验一样，大部分电路实验报告也是非常耗时的，只不过大物你可以通过选课避免掉一些难做的实验，而本实验不行。
 
@@ -29,5 +41,8 @@
 2. 计算与绘图：本学期电路实验会充斥大量计算绘图，因此掌握一门绘图工具库是比较好的选择，这在之后的实验中也会经常使用到。
 
 ## 学习建议
+<!-- TOML-SECTION: title="学习建议" -->
+
+<!-- TOML-ITEM: id="item-学习建议-1" -->
 
 尽管每学期的助教不一样，但总体来说助教检查会比老师更好说话。当实验报告某处出现错误时，老师往往会让你重做一遍，而助教则可能会告诉你正确结果范围，让你课后再修改。
