@@ -1,15 +1,15 @@
 course_name = "电路实验IB"
-repo_type = "normal"
 course_code = "EE1012B"
-
+repo_type = "normal"
 description = "电路实验IB课程资料。"
 
-[[lecturers]]
+[lecturers]
+
+[[lecturers.items]]
 name = "姜倩倩"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = "很好的老师，会尽力帮助大家做实验"
-
 
 [[sections]]
 title = "教材"
