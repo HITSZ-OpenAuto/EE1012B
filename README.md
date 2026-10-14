@@ -1,9 +1,5 @@
 # EE1012B - 电路实验IB
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![出勤+实验报告100%](https://img.shields.io/badge/出勤+实验报告-100%25-wheat)
 
 电路实验IB课程资料。
 
